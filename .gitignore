@@ -1,3 +1,9 @@
+# Visual Studio and VSCode
+.vs/
+x64/
+*.vcxproj
+*.vcxproj.user
+
 # Prerequisites
 *.d
 
